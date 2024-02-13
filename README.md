@@ -1,6 +1,6 @@
 # Secure-VPC-Setup-with-EC2-Instances
 
-##Mastering AWS VPC configurations for secure and efficient networking! 🛡️ Today, you will be able to tackled the challenge of accessing a private subnet's EC2 server from a public subnet using an Application Load Balancer (ALB) and a bastion jump host, all while ensuring robust security measures. Here's a breakdown of the steps I followed:
+### Mastering AWS VPC configurations for secure and efficient networking! 🛡️ Today, you will be able to tackled the challenge of accessing a private subnet's EC2 server from a public subnet using an Application Load Balancer (ALB) and a bastion jump host, all while ensuring robust security measures. Here's a breakdown of the steps I followed:
 
 1️⃣ Set up the VPC: Created a custom VPC with public and private subnets using the AWS Management Console or AWS CLI.
 
