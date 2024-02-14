@@ -18,6 +18,7 @@
 3️⃣ Launch EC2 Instances: Launched two EC2 instances in private subnets, ensuring proper security groups and IAM roles.
 
 - Create an Auto Scaling group in your private subnets.
+- Create template.
 - launch EC2 Instances.
 - which is a collection of EC2 instances with a minimum of 1, maximum of 4, and desired size of 2. 
 
